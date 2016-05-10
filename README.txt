@@ -12,4 +12,4 @@ Every ~2 minutes it'll check for any new replays, and automatically upload them 
 
 
 This is all open source!
-http://
+https://github.com/shortland/Sc2-Replay-Stats---Replay-Uploader---Mac/
